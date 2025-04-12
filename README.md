@@ -2,7 +2,6 @@
 
 <p align="center">
   ✉️ You can reach me via email at <a href="mailto:ankit970606@gmail.com">ankit970606@gmail.com</a><br>
-  🔗 Visit my GitHub at <a href="https://github.com/ankit970606">github.com/ankit970606</a>
 </p>
 
 ---
