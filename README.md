@@ -33,9 +33,7 @@
 - 📮 Postman  
 
 ### 🗄️ Databases  
-- ⚡ DynamoDB  
-- 🐘 PostgreSQL  
-- 🏠 H2 Database  
+- 🐘 PostgreSQL   
 - 🧮 MySQL  
 
 ---
