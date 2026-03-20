@@ -83,20 +83,7 @@ Modern Android social media feed with clean architecture
 
 ---
 
-## ⚙️ GitHub Analytics  
 
-<p align="center">
-  <a href="https://github.com/ankit970606">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankit970606&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankit970606&layout=compact&langs_count=10&theme=blueberry&hide=jupyter%20notebook&exclude_repo=ankit970606"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit970606&theme=blueberry" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
