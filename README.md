@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>AI/ML Engineer | Backend Developer | Android Developer</b><br>
-  B.Tech CSE Student at Amity University (CGPA: 8.76)<br><br>
   ✉️ <a href="mailto:ankit9678929@gmail.com">ankit9678929@gmail.com</a> | 
   📱 +91-9678929552 |
   <a href="https://linkedin.com/in/ankit970606">LinkedIn</a>
